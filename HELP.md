@@ -13,7 +13,6 @@ For further reference, please consider the following sections:
 The following guides illustrate how to use some features concretely:
 
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Building a GraphQL service](https://spring.io/guides/gs/graphql-server/)
 
 ### Additional Links
 These additional references should also help you:

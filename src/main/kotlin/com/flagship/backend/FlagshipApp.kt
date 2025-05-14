@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class FlagshipBackendApplication
+class FlagshipApp
 
 fun main(args: Array<String>) {
-	runApplication<FlagshipBackendApplication>(*args)
+	runApplication<FlagshipApp>(*args)
 }
